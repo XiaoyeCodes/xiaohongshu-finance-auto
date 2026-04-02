@@ -35,6 +35,7 @@ xiaohongshu-finance-auto/
 3. **Python 3.10+**：用于绘图 prompt 生成
 4. **MCP 服务**：已部署 xiaohongshu-mcp
 5. **绘图 API**：Google Gemini API Key（用于 Nano Banana Pro）
+6. **绘图脚本**：已包含在 `scripts/draw.py`（无需额外安装）
 
 ### 📖 OpenClaw 专用安装指南
 
