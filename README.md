@@ -28,18 +28,47 @@ xiaohongshu-finance-auto/
 
 ## 🚀 快速开始
 
+### 📦 一键安装（推荐）
+
+**Windows**：
+```powershell
+# 克隆项目
+git clone https://github.com/XiaoyeCodes/xiaohongshu-finance-auto.git
+cd xiaohongshu-finance-auto
+
+# 一键安装（自动检查依赖 + 安装）
+.\install.ps1
+
+# 编辑 .env 文件，填入 GEMINI_API_KEY
+notepad .env
+```
+
+**macOS/Linux**：
+```bash
+# 克隆项目
+git clone https://github.com/XiaoyeCodes/xiaohongshu-finance-auto.git
+cd xiaohongshu-finance-auto
+
+# 一键安装（自动检查依赖 + 安装）
+chmod +x install.sh
+./install.sh
+
+# 编辑 .env 文件，填入 GEMINI_API_KEY
+nano .env
+```
+
 ### 📋 前置要求
 
-1. **小红书账号**：已登录小红书网页版（建议新号，已实名认证）
-2. **Node.js**：v18+
-3. **Python 3.10+**：用于绘图 prompt 生成
-4. **MCP 服务**：已部署 xiaohongshu-mcp
-5. **绘图 API**：Google Gemini API Key（用于 Nano Banana Pro）
-6. **绘图脚本**：已包含在 `scripts/draw.py`（无需额外安装）
+安装脚本会自动检查，如果没有会提示安装：
 
-### 📖 OpenClaw 专用安装指南
+1. **Node.js**：v18+（https://nodejs.org/）
+2. **Python 3.10+**：（https://www.python.org/）
+3. **小红书账号**：已登录小红书网页版（建议新号，已实名认证）
+4. **Google Gemini API Key**：（https://makersuite.google.com/app/apikey）
 
-**⚠️ 重要**：如果你使用 OpenClaw，请查看详细安装教程：
+### 📖 详细安装教程
+
+**⚠️ 重要**：完整的配置流程（包括 Cookies 导出、MCP 服务配置）请看：
 
 👉 **[INSTALL-OPENCLAW.md](INSTALL-OPENCLAW.md)**
 
@@ -50,33 +79,24 @@ xiaohongshu-finance-auto/
 - ✅ API Key 配置说明
 - ✅ 故障排查指南
 
-### 安装步骤
+### 🔧 手动安装（如果一键安装失败）
 
-1. **克隆项目**
 ```bash
-git clone https://github.com/YOUR_USERNAME/xiaohongshu-finance-auto.git
+# 1. 克隆项目
+git clone https://github.com/XiaoyeCodes/xiaohongshu-finance-auto.git
 cd xiaohongshu-finance-auto
-```
 
-2. **安装依赖**
-```bash
+# 2. 安装 Node.js 依赖
 npm install
-pip install google-genai pillow
-```
 
-3. **配置 API Key**
-在 `.env` 文件中添加：
-```
-GEMINI_API_KEY=your_api_key_here
-```
+# 3. 安装 Python 依赖
+pip install -r requirements.txt
 
-4. **配置小红书 Cookies**
-- 登录 https://www.xiaohongshu.com
-- 导出 cookies 到 `~/.local/bin/cookies.json`
+# 4. 配置环境变量
+cp .env.example .env
+# 编辑 .env，填入 GEMINI_API_KEY
 
-5. **启动 MCP 服务**
-```bash
-xiaohongshu-mcp-windows-amd64.exe
+# 5. 配置小红书 Cookies（见 INSTALL-OPENCLAW.md）
 ```
 
 ### 使用方法
