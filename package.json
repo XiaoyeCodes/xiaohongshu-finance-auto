@@ -1,0 +1,27 @@
+{
+  "name": "xiaohongshu-finance-auto",
+  "version": "1.0.0",
+  "description": "小红书财经自动化发布技能 - 每日自动生成真人化文案 + 治愈系配图并发布",
+  "main": "scripts/publish.js",
+  "type": "commonjs",
+  "scripts": {
+    "publish": "node scripts/publish.js",
+    "generate-prompt": "python3 scripts/finance-prompt-generator.py"
+  },
+  "keywords": [
+    "xiaohongshu",
+    "finance",
+    "auto-post",
+    "content-generation",
+    "AI"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "pythonDependencies": [
+    "google-genai>=1.0.0",
+    "pillow>=10.0.0"
+  ]
+}

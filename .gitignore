@@ -1,0 +1,25 @@
+# 依赖
+node_modules/
+__pycache__/
+*.pyc
+.env
+
+# 生成的图片
+*.png
+*.jpg
+
+# 日志
+*.log
+
+# 临时文件
+*.tmp
+*.bak
+
+# 系统文件
+.DS_Store
+Thumbs.db
+
+# 敏感信息
+cookies.json
+*.key
+*.secret
