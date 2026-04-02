@@ -28,13 +28,26 @@ xiaohongshu-finance-auto/
 
 ## 🚀 快速开始
 
-### 前置要求
+### 📋 前置要求
 
-1. **小红书账号**：已登录小红书网页版
+1. **小红书账号**：已登录小红书网页版（建议新号，已实名认证）
 2. **Node.js**：v18+
 3. **Python 3.10+**：用于绘图 prompt 生成
 4. **MCP 服务**：已部署 xiaohongshu-mcp
 5. **绘图 API**：Google Gemini API Key（用于 Nano Banana Pro）
+
+### 📖 OpenClaw 专用安装指南
+
+**⚠️ 重要**：如果你使用 OpenClaw，请查看详细安装教程：
+
+👉 **[INSTALL-OPENCLAW.md](INSTALL-OPENCLAW.md)**
+
+包含：
+- ✅ 完整的 OpenClaw 配置流程
+- ✅ Cookies 导出教程（2 种方法）
+- ✅ xiaohongshu-mcp 安装步骤
+- ✅ API Key 配置说明
+- ✅ 故障排查指南
 
 ### 安装步骤
 
