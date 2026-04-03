@@ -1,0 +1,1 @@
+An infographic page for Xiaohongshu. Yellow header bar. 5 vertical cards on beige background. Card 1: building icon, 3000-5000/month. Card 2: light bulb, 200-300/month. Card 3: phone icon. Card 4: subway icon, 200-300/month. Card 5: rice bowl, 1500-2000/month. Each card has icon, bold title, red amount, green tip. Clean layout. --ar 3:4

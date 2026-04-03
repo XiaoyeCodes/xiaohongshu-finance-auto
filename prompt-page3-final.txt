@@ -1,0 +1,13 @@
+An infographic page for Xiaohongshu, category header 冲动消费类（本可以不花的）in orange highlight bar. The style is modern friendly flat vector art on a soft beige background. 5 vertical cards layout.
+
+卡片 1（直播间下单）：手机直播界面 + 主播喊"321"对话框 + 手指点击付款按钮，文字标注"冲动消费"，底部绿色建议"加购物车冷静 24 小时"。
+
+卡片 2（心情不好就买）：一个难过表情的卡通女性 + 购物袋，文字标注"买完后悔"，底部绿色建议"找替代发泄方式"。
+
+卡片 3（凑单满减）：计算器 + 优惠券图标，显示"为了减 50 多花 200"，文字标注"凑单陷阱"，底部绿色建议"刚需才买别凑"。
+
+卡片 4（网红店打卡）：排队人群图标 + 2 小时等待时间 + 拍照手机，文字标注"排队 2 小时"，底部绿色建议"真想吃不用排"。
+
+卡片 5（盲盒手办）：盲盒图标 + 隐藏款问号 + 钱包变空，文字标注"隐藏款抽不到"，底部绿色建议"设定月度预算"。
+
+All text in clean correct Chinese. Premium educational design with soft macaron colors. --ar 3:4

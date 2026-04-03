@@ -1,0 +1,9 @@
+An infographic poster for Xiaohongshu titled 工资消失的 15 个瞬间 in large clean Chinese characters. Subtitle 第几个是你 in smaller text. The style is modern friendly flat vector art on a soft beige background.
+
+顶部区域（核心问题）：一个可爱的 25-30 岁亚洲女性困惑地看着空钱包，头顶有对话框"工资怎么又没了？"，旁边有日历显示"月初"和"月末"的对比，背景是工资条和账单。
+
+中部区域（15 个瞬间预览）：15 个小网格卡片预览，分为三列。左列红色（固定支出 5 个）：房租、水电、话费、交通、餐饮图标。中列橙色（冲动消费 5 个）：直播、购物袋、计算器、排队人群、盲盒图标。右列黄色（隐形支出 5 个）：APP 续费、手指点击、信用卡、银行卡、分期图标。
+
+底部区域（互动引导）：一个可爱的卡通女性指着时间线问"你的工资在第几天消失？"，时间线分为三段：第 1-3 天红色、第 4-10 天橙色、第 11-30 天绿色。
+
+All text in clean correct Chinese. Premium educational design with soft macaron colors. --ar 3:4

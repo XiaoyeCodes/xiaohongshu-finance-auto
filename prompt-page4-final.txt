@@ -1,0 +1,13 @@
+An infographic page for Xiaohongshu, category header 隐形支出类（最容易被忽视的）in red highlight bar. The style is modern friendly flat vector art on a soft beige background. 5 vertical cards layout.
+
+卡片 1（闲置自动续费）：手机 APP 图标 + 钱包漏钱 + 日历显示"每月扣"，文字标注"不用了还在扣"，底部绿色建议"每月查自动扣费"。
+
+卡片 2（免密支付）：手指点击图标 + 无感知文字 + 月底账单震惊表情，文字标注"花钱无感知"，底部绿色建议"只留刚需免密"。
+
+卡片 3（信用卡利息）：信用卡被藤蔓缠绕图标 + 最低还款文字 + 18% 利息标注，文字标注"利息 18%"，底部绿色建议"全额自动还款"。
+
+卡片 4（银行卡管理费）：银行卡结蜘蛛网图标 + 闲置文字 + 20-30 元/年标注，文字标注"闲置卡扣费"，底部绿色建议"注销废卡"。
+
+卡片 5（分期手续费）：铁链 + 购物袋图标 + 看似免息实际收费文字，文字标注"分期陷阱"，底部绿色建议"非必要不分期"。
+
+All text in clean correct Chinese. Premium educational design with soft macaron colors. --ar 3:4

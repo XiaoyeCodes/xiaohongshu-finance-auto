@@ -1,0 +1,13 @@
+An infographic page for Xiaohongshu, category header 固定支出类（逃不掉的）in yellow highlight bar. The style is modern friendly flat vector art on a soft beige background. 5 vertical cards layout.
+
+卡片 1（房租/房贷）：一栋房子或公寓楼图标，旁边有工资卡箭头指向房东，文字标注"3000-5000/月"，底部绿色建议"控制在收入 30% 以内"。
+
+卡片 2（水电燃气）：一个灯泡 + 水表 + 燃气表组合图标，夏天有空调图标，文字标注"夏天 200-300/月"，底部绿色建议"随手关灯省 100"。
+
+卡片 3（话费网费）：一部手机 + WiFi 信号图标，套餐表格显示"永远用不完"，文字标注"套餐费"，底部绿色建议"降级套餐省 50/月"。
+
+卡片 4（通勤交通）：地铁/公交图标 + 共享单车图标对比，文字标注"200-300/月"，底部绿色建议"共享单车月卡更划算"。
+
+卡片 5（日常餐饮）：外卖盒 + 自己做饭对比图，文字标注"1500-2000/月"，底部绿色建议"周末备菜省 500/月"。
+
+All text in clean correct Chinese. Premium educational design with soft macaron colors. --ar 3:4

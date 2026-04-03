@@ -1,0 +1,9 @@
+An infographic summary page for Xiaohongshu. Large title 你的工资在第几天消失 at top. The style is modern friendly flat vector art on a soft beige background.
+
+顶部区域（时间线）：一条水平时间线，分为三段颜色。第 1-3 天红色区域标注"固定支出（逃不掉）"，第 4-10 天橙色区域标注"日常开销（可优化）"，第 11-30 天绿色区域标注"冲动 + 隐形（可控制）"。
+
+中部区域（金句）：一个大字号文字框"省钱不是不花，是花在该花的地方"，旁边有一个可爱的卡通女性点头认可的表情。
+
+底部区域（互动引导）：一个可爱的卡通女性指着评论区问"你的工资在第几天消失？"，旁边有对话框"我帮你看怎么省～"，底部有标签#存钱 #省钱攻略 #工资 #理财 #消费观。
+
+All text in clean correct Chinese. Premium educational design with soft macaron colors. --ar 3:4
